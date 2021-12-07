@@ -5,5 +5,5 @@ My name is Jens Hilligsøe, aka Hilli. I work in Site Reliability Engineering on
 
 <details>
   <summary>Click here for more information</summary>
-  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=hilli)](https://github.com/ryo-ma/github-profile-trophy)
 </details>
