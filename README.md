@@ -6,9 +6,9 @@ Previously on
 
 - The [npm](https://www.npmjs.com/) team.
 - [AppCenter.ms](https://appcenter.ms/)
-- [Xamarin Test Cloud](https://xamarin.com/testcloud/)
-- TDC Hosting
-- DIR
+- [Xamarin Test Cloud](https://xamarin.com/testcloud/) (Bought by Microsoft)
+- TDC Hosting (Now known as Itadel)
+- DIR (Bought by TDC Hosting)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hilli&row=1&margin-w=10&no-bg=true&no-frame=true&theme=alduin)](https://github.com/ryo-ma/github-profile-trophy)
